@@ -11,8 +11,6 @@ class GeocodingController < ApplicationController
 
     # ==========================================================================
     # Your code goes below.
-
-    # http://maps.googleapis.com/maps/api/geocode/json?address=  #sensor=false
     #
     # The street address that the user typed is in the variable @street_address.
     # ==========================================================================
